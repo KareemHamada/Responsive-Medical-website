@@ -1,0 +1,19 @@
+.header {
+    background-color: #fff;
+}
+
+.navbar-brand {
+    img {
+        width: 200px;
+    }
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: $secondary-color;
+    margin: 0 5px;
+    text-transform: uppercase;
+    &:hover {
+        background-color: $blue !important;
+        color: #fff!important;
+    }
+}

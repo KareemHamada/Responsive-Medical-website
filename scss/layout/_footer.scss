@@ -1,0 +1,20 @@
+.footer {
+    background-color: #34383d;
+    h4 {
+        font-weight: bold;
+    }
+}
+
+.icon-footer {
+    font-size: 20px;
+    color: $blue !important;
+    width: 50px;
+    height: 30px;
+    background-color: white;
+    &:hover {
+        background-color: $blue !important;
+        .fab {
+            color: white;
+        }
+    }
+}

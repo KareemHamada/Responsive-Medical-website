@@ -1,0 +1,20 @@
+.about-us button {
+    @include button-style;
+}
+
+.department button {
+    @include button-style;
+    margin-top: 20px;
+}
+
+.health button {
+    @include button-style;
+}
+
+.btn-aboutUs-health button {
+    @include button-style;
+}
+
+.map button {
+    @include button-style;
+}
