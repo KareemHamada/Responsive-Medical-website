@@ -1,4 +1,4 @@
-# Responsive-Medical-website ITI train
+# Responsive-Medical-website ITI training
 
 Html 
 CSS
